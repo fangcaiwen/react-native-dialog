@@ -1,0 +1,15 @@
+{
+  "name": "react-native-dialog",
+  "version": "1.0.0",
+  "description": "React-Native Android Dialog Component",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gitlab.iotbull.com/react_native/react-native-dialog.git"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "wind",
+  "license": "ISC"
+}
