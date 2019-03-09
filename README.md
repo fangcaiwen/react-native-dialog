@@ -1,6 +1,7 @@
 # react-native-dialog
 react-native调用android原生弹窗
 
+```
 import React, { PureComponent } from 'react';
 import { NativeModules,ActionSheetIOS,Alert,AlertIOS } from 'react-native';
 import { dimens } from '../../resource/index';
@@ -90,3 +91,5 @@ export default class Dialog extends PureComponent {
         }
     }
 }
+
+```
